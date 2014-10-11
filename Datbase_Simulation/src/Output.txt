@@ -1,0 +1,91 @@
+31.10.13 21:54:55 :	Table T11 was created.
+31.10.13 21:54:55 :	One line was saved to the table. T11:   1 John             31 brother    
+31.10.13 21:54:55 :	One line was saved to the table. T11:   2 Jane             35 sister     
+31.10.13 21:54:55 :	One line was saved to the table. T11:   3 Jenny            13 daughter   
+31.10.13 21:54:55 :	One line was saved to the table. T11:   4 Joe              62 father     
+31.10.13 21:54:55 :	One line was saved to the table. T11:   5 Joan             55 mother     
+31.10.13 21:54:55 :	One line was saved to the table. T11:   6 Jake             10 son        
+
+31.10.13 22:13:57 :	TABLE CARDINALITY is >> 6
+31.10.13 22:13:57 :	 For The Column :: >> Name
+31.10.13 22:13:57 :		 THE COLUMN CARDINALITY is >> 6
+31.10.13 22:13:57 :		 THE COLUMN HIGH KEY is >> John
+31.10.13 22:13:57 :		 THE COLUMN LOW KEY is >> Jake
+31.10.13 22:13:57 :	 For The Column :: >> Age
+31.10.13 22:13:57 :		 THE COLUMN CARDINALITY is >> 6
+31.10.13 22:13:57 :		 THE COLUMN HIGH KEY is >> 62
+31.10.13 22:13:57 :		 THE COLUMN LOW KEY is >> 10
+31.10.13 22:13:57 :	 For The Column :: >> Relation
+31.10.13 22:13:57 :		 THE COLUMN CARDINALITY is >> 6
+31.10.13 22:13:57 :		 THE COLUMN HIGH KEY is >> son
+31.10.13 22:13:57 :		 THE COLUMN LOW KEY is >> brother
+31.10.13 22:14:57 :	Index IND3 is dropped from the table
+
+31.10.13 22:31:17 :	Index Successfully created Check Tables folder for .Idx File
+31.10.13 22:44:02 :	Table tt does not Exists check your Sql Command 
+31.10.13 22:45:07 :	Index IND3 is dropped from the table
+31.10.13 22:45:53 :	DBMS ERROR:  Table T1 does not exists. 'CREATE INDEX IND3 ON T1 ( Name , Age DESC ) ;'.
+31.10.13 22:46:15 :	Index Successfully created Check Tables folder for .Idx File
+18.11.13 19:18:45 :	DBMS ERROR:  Invalid statement. 'from T2'.
+23.11.13 13:40:57 :	DBMS ERROR:  Invalid CREATE TABLE statement. 'CREATE TABLE T3 ;'.
+23.11.13 17:42:02 :	JAVA ERROR:  For input string: "c"
+03.12.13 20:07:02 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:07:43 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:14:11 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:16:30 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:36:59 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:38:39 :	JAVA ERROR:  For input string: "C"
+03.12.13 20:43:38 :	JAVA ERROR:  For input string: "C"
+03.12.13 21:16:02 :	JAVA ERROR:  1
+03.12.13 21:16:15 :	JAVA ERROR:  0
+03.12.13 22:02:58 :	JAVA ERROR:  For input string: "c"
+03.12.13 22:13:48 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:23:53 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:24:04 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:24:17 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:25:29 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:28:39 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:30:09 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:30:30 :	JAVA ERROR:  8
+03.12.13 22:30:43 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:31:08 :	JAVA ERROR:  8
+03.12.13 22:31:25 :	JAVA ERROR:  For input string: "C"
+03.12.13 22:31:53 :	JAVA ERROR:  For input string: "C"
+05.12.13 19:15:38 :	JAVA ERROR:  9
+05.12.13 19:16:21 :	JAVA ERROR:  For input string: "--"
+06.12.13 09:04:33 :	JAVA ERROR:  null
+06.12.13 09:07:46 :	JAVA ERROR:  null
+06.12.13 10:25:05 :	JAVA ERROR:  String index out of range: 3
+06.12.13 10:26:44 :	JAVA ERROR:  String index out of range: 3
+06.12.13 10:50:33 :	JAVA ERROR:  For input string: "C4"
+06.12.13 10:51:22 :	JAVA ERROR:  Index: 2, Size: 2
+06.12.13 11:58:28 :	JAVA ERROR:  null
+06.12.13 11:59:32 :	JAVA ERROR:  null
+06.12.13 11:59:59 :	JAVA ERROR:  null
+06.12.13 12:01:08 :	JAVA ERROR:  null
+06.12.13 18:30:44 :	JAVA ERROR:  For input string: "--"
+06.12.13 18:32:33 :	JAVA ERROR:  9
+06.12.13 19:15:10 :	JAVA ERROR:  6
+06.12.13 19:16:53 :	JAVA ERROR:  String index out of range: 5
+06.12.13 19:17:28 :	JAVA ERROR:  String index out of range: 5
+06.12.13 21:11:48 :	JAVA ERROR:  For input string: "--"
+06.12.13 21:14:47 :	JAVA ERROR:  9
+06.12.13 21:38:03 :	JAVA ERROR:  6
+06.12.13 21:54:59 :	JAVA ERROR:  String index out of range: 26
+06.12.13 21:57:17 :	JAVA ERROR:  String index out of range: 26
+06.12.13 22:02:44 :	JAVA ERROR:  String index out of range: 5
+06.12.13 22:03:08 :	JAVA ERROR:  String index out of range: 5
+06.12.13 22:20:09 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:25:47 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:26:25 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:31:51 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:32:47 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:35:43 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:37:26 :	JAVA ERROR:  For input string: "--"
+06.12.13 22:54:47 :	JAVA ERROR:  String index out of range: 5
+06.12.13 23:04:58 :	JAVA ERROR:  For input string: "--"
+06.12.13 23:06:24 :	JAVA ERROR:  6
+10.12.13 18:41:24 :	JAVA ERROR:  Format specifier '-20s'
+10.12.13 18:41:59 :	JAVA ERROR:  Format specifier '-20s'
+10.12.13 18:42:55 :	JAVA ERROR:  Format specifier '-7s'
+10.12.13 18:43:35 :	JAVA ERROR:  Format specifier '7s'

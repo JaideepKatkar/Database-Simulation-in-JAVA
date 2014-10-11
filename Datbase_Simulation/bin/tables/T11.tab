@@ -1,0 +1,19 @@
+3
+Name C8 true
+Age I true
+Relation C10 true
+3
+IND1 false 1A 
+IND2 false 1A 2A 
+IND3 false 1A 2D 
+6
+  1 John             31 brother    
+  2 Jane             35 sister     
+  3 Jenny            13 daughter   
+  4 Joe              62 father     
+  5 Joan             55 mother     
+  6 Jake             10 son        
+STATS TABCARD 0
+STATS COLCARD 0 0 - -
+STATS COLCARD 1 0 - -
+STATS COLCARD 2 0 - -
